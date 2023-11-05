@@ -8,7 +8,6 @@ Esta es una solución al desafío de "Four card feature section solution" de Fro
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Mi Proceso](#Mi Proceso)
 - [Autor](#autor)
 
 ## Overview
@@ -35,8 +34,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## Mi Proceso
 
 ### Construido con
 
