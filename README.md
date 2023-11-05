@@ -25,8 +25,8 @@ Los usuarios deberían poder:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/BaloaC/challengue-four-card-feature-section)
+- Live Site URL: [Add live site URL here](https://baloac.github.io/challengue-four-card-feature-section/)
 
 ### Construido con
 
