@@ -30,7 +30,7 @@ $very-light-gray: hsl(0, 0%, 98%);
     @media screen and (max-width: 786px) {
         @content;
     }
-}
+} 
 
 *, body, html {
     margin: 0;
