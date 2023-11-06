@@ -31,7 +31,7 @@ Los usuarios deberían poder:
 ### Construido con
 
 - Semantic HTML5 markup
-- CSS custom
+- SCSS
 
 ## Autor
 
