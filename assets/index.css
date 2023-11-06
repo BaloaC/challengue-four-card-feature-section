@@ -82,7 +82,7 @@ main .container-cards:first-child .card, main .container-cards:nth-child(2) .car
 .description {
   width: 40%;
   margin: 1rem auto 3rem auto;
-  color: var(--grayish-blue);
+  color: hsl(229, 6%, 66%);
 }
 @media screen and (max-width: 786px) {
   .description {
@@ -133,7 +133,7 @@ main .container-cards:last-child .card {
 }
 .card p {
   font-size: 12px;
-  color: var(--grayish-blue);
+  color: hsl(229, 6%, 66%);
 }
 .card .container-image {
   margin-top: 2rem;
